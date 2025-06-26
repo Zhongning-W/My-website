@@ -1,0 +1,3 @@
+function green() {
+    alert('Welcome!');
+}
